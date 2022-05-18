@@ -1,0 +1,2 @@
+# ITC6450_adv_cloud_computing_assignment
+Terraform Deployment
